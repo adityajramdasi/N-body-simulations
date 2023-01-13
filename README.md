@@ -1,3 +1,4 @@
-# N-body-simulation
+# N-body-simulations
+![Random](https://user-images.githubusercontent.com/94242073/212388986-19a50270-4869-487c-95d2-51300b0e893a.JPG)
 
 This was my course project for my second semester (Spring 2022) course - "Mathematical Physics I: Mathematical and Computational Toolkit" with Prof. Vikram Vyas. I studied leapfrog numerical integration and used it to simulate basic versions of our solar system. The animation library used was VPython. After playing around with basic N-body systems, I came up with 9 unique cases of disruptors (external bodies with specific masses, velocities and positions) to achieve certain predicted disruptions on the solar system (ejection of specific planets, collision with sun, net zero disruption, comet-like trajectories, etc.), simulated them and analyzed their effects on the stability of my toy solar system. Find the sample code for some of these disruption cases and my project report (made of mostly images from running the simulations) in this repository.
